@@ -36,7 +36,7 @@ Please read these Terms carefully before you accept. We draw your attention to t
 
 - we may terminate your access to our Platform if you breach our Acceptable Use Policy, the Spam Act or Privacy Act.
 
-- you agree to indemnify, defend, and hold us harmless from any and all claims, liabilities, fines, costs, expenses, including internal investigation costs, arising from actual or perceived breaches of the Spam Act, Privacy Act or related regulations.
+- you agree to indemnify, defend, and hold us harmless from any and all claims, liabilities, fines, costs, expenses, including internal investigation costs, arising from actual or alleged breaches of the Spam Act, Privacy Act, telecommunications laws, carrier or platform rules, our Acceptable Use Policy, or related regulations.
 
 __These Terms do not intend to limit your rights and remedies at law, including any of your Consumer Law Rights.__
 
@@ -47,7 +47,7 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 
 1.3            Variations: We may amend these Terms at any time, by providing written notice to you. By clicking “I accept”, or by continuing to use our Platform from the date that is 30 days after notification, you agree to the amended Terms. If you do not agree to the amendment, you may close your Account with effect from the date of the change in these Terms by providing written notice to us. If you close your Account, you will no longer be able to access our Services (including our Platform) on and from the date of cancellation.
 
-1.4            Subscription Agreement and policies: We may offer paid plans, billing terms, or commercial terms under a separate subscription agreement, order form, checkout flow, or plan page (each a Subscription Agreement). If there is a conflict between these Terms and a Subscription Agreement, the Subscription Agreement will control only for pricing, billing cycle, renewal, cancellation, refunds, usage limits, and plan-specific commercial terms. Our Acceptable Use Policy and Privacy Policy are incorporated into these Terms by reference.
+1.4            Subscription Agreement and policies: We may offer paid plans, billing terms, or commercial terms under a separate subscription agreement, order form, checkout flow, or plan page (each a Subscription Agreement). If there is a conflict between these Terms and a Subscription Agreement, the Subscription Agreement will control only for pricing, billing cycle, renewal, cancellation, refunds, usage limits, and plan-specific commercial terms. Our Acceptable Use Policy, Privacy Policy, Cookie Policy, Copyright Policy, and, where applicable, our API Terms and any data processing terms made available by us are incorporated into these Terms by reference.
 
 ### 2 — Our Services
 2.1            We provide the following services to you:
@@ -67,7 +67,9 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 
 2.7            Discovery, Data Retrieval and Restoration Services: Our Services and Support Services do not include legal hold support, litigation, arbitration, mediation, regulatory or third-party discovery assistance, historical or custom data exports, deleted data retrieval, backup restoration, forensic investigation, or any other data recovery, reconstruction or evidentiary support services (Recovery Services). If you request any Recovery Services, we may provide them in our sole discretion as additional services. Any time spent by us assessing, locating, reviewing, extracting, restoring, reconstructing, or producing data or records at your request will be billable as Recovery Services. Recovery Services will be charged at our then-current hourly or project rates, together with any third-party costs and expenses incurred by us in providing those Recovery Services. We may require prepayment, a deposit, or written acceptance of a separate scope of work before commencing any Recovery Services. You acknowledge that, due to the nature of data deletion, system changes, backups, retention settings and third-party infrastructure, Recovery Services may not be successful, complete or available, and we do not guarantee that any deleted, historical or other data can be located, recovered, restored or produced.
 
-2.8            Third Party Products or Services: Where you engage third parties to operate alongside our Services (for example, any third-party software systems you wish to integrate with our Platform), those third parties are independent of us and you are responsible for (meaning we will not be liable for) the goods or services they provide, unless we expressly agree otherwise under clause 2.6.
+2.8            Third Party Products or Services: Where you engage third parties to operate alongside our Services (for example, any third-party software systems you wish to integrate with our Platform), those third parties are independent of us and you are responsible for (meaning we will not be liable for) the goods or services they provide, unless we expressly agree otherwise under clause 2.6. If you enable, authorise, or configure an integration, connection, or data sync with a third party, you instruct us to exchange, transmit, or make available Your Data and account information to that third party to the extent needed to operate the integration you selected. We are not responsible for any third party's handling of data, acts, omissions, outages, security, or compliance.
+
+2.9            Beta, Preview and Early Access Features: We may make alpha, beta, preview, pilot, trial, early access, experimental, or similar features or services available from time to time (Beta Features). Unless we expressly state otherwise, Beta Features are provided on an as is and as available basis, may have reduced or different security, support, performance, availability, or functionality, may change at any time, and may be suspended or discontinued without notice. To the maximum extent permitted by law, we are not liable for Beta Features or any use of them.
 
 ### 3 — Account
 3.1            You must sign up for an Account in order to access and use our Platform.
@@ -75,7 +77,7 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 3.2            While you have an Account with us, you agree to:
 (a)             keep your information up-to-date (and ensure it remains true, accurate and complete);
 (b)            keep usernames and passwords secure and confidential, and protect them from misuse or being stolen;
-(c)             notify us if you become aware of, or have reason to suspect, any unauthorised access to your Account or any logins linked to your Account; and
+(c)             notify us promptly, and where practicable within 24 hours after becoming aware of it, if you become aware of, or have reason to suspect, any unauthorised access to your Account, API keys, credentials, or any logins linked to your Account; and
 (d)            comply with our Acceptable Use Policy.
 
 3.3            We may suspend your access to our Services where we reasonably believe there has been any breach of our Acceptable Use Policy or unauthorised access to or use of our Services (such as the unauthorised sharing of login details for our Platform). If we suspend your access to our Services, we will let you know within a reasonable time of doing so, and we will work with you to resolve the matter, or if it cannot be resolved, then we may terminate your Account and your access to our Services will end.
@@ -127,6 +129,8 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 
 5.3            You must ensure that your use of our Platform is in accordance with our Acceptable Use Policy and you are responsible for obtaining consent from your Identified Contacts in accordance with the Privacy Act and Spam Act. We may terminate your use of our Platform in accordance with clause 11.1(a) for any breach of our Acceptable Use Policy.
 
+5.4            Export Controls and Sanctions: You must not access or use our Services in violation of any applicable export control, sanctions, trade embargo, or import laws. You represent and warrant that you are not, and are not owned or controlled by, a person or entity that is the target of sanctions or restrictions that prohibit your use of the Services, and that you will not permit any such person or entity to access or use the Services.
+
 ### 6 — Availability, Disruption and Downtime
 6.1            While we strive to always make our Services available to you, we do not make any promises that these will be available 100% of the time. Our Services may be disrupted during certain periods, including, for example, as a result of scheduled or emergency maintenance.
 
@@ -137,6 +141,8 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 6.4            Delivery of emails, SMS and other communications sent through our Services depends on a range of factors outside our control, including third-party service providers, recipient systems, spam filters, network conditions and platform rules. To the maximum extent permitted by law, we do not guarantee the successful sending, routing, delivery, receipt, timing, inbox placement or continued availability of any email, SMS or other communication sent through our Services.
 
 6.5            To the maximum extent permitted by law, we may, in our sole discretion and without liability to you, delay, reject, block, suspend, remove, throttle, or refuse to send, route, or process any email, SMS, or other communication through our Services or network where we consider it necessary or desirable for legal, regulatory, security, reputational, deliverability, spam, fraud, abuse, platform integrity, third-party requirements, or compliance reasons, or where we otherwise reasonably consider that doing so may expose us, our Services, our network, our suppliers, or any third party to risk. We are not required to monitor your content, recipients, or traffic, and no action or inaction by us constitutes approval of your data, sending practices, or communications.
+
+6.6            Subject to your Consumer Law Rights, our Services are provided on an as is and as available basis. To the maximum extent permitted by law, we disclaim all representations, warranties, guarantees, and conditions not expressly stated in these Terms, whether express, implied, statutory, or otherwise, including any implied warranties of merchantability, fitness for a particular purpose, title, non-infringement, satisfactory quality, uninterrupted availability, or results.
 
 ### 7 — Intellectual Property and Data
 7.1            We own all intellectual property rights in our Services (including our Platform). This includes how our Platform looks and functions, as well as our copyrighted works, trademarks, inventions, designs and other intellectual property. You agree not to copy or otherwise misuse our intellectual property without our written permission (for example, to reverse engineer or discover the source code of our intellectual property), and you must not alter or remove any confidentiality, copyright or other ownership notice placed on our Platform.
@@ -247,7 +253,13 @@ Acceptable Use Policy means the Platform code of conduct policy available at htt
 
 Account means an account accessible to the individual or entity who signed up to our Services.
 
+API Terms means the terms that apply to access to and use of our APIs, developer tools, webhooks, and related credentials, as made available by us from time to time.
+
 Consequential Loss includes any consequential loss, special or indirect loss, real or anticipated loss of profit, loss of benefit, loss of revenue, loss of business, loss of goodwill, loss of opportunity, loss of savings, loss of reputation, loss of use and/or loss or corruption of data, whether under statute, contract, equity, tort (including negligence), indemnity or otherwise. However, your obligation to pay us any amounts for access to or use of our Services (including our Platform) will not constitute “Consequential Loss”.
+
+Cookie Policy means the policy describing our use of cookies and similar technologies, available at https://bentonow.com/legal/cookies.
+
+Copyright Policy means the policy governing copyright or intellectual property complaints, available at https://bentonow.com/legal/copyright-policy.
 
 Identified Contacts has the meaning given in clause 3.4.
 

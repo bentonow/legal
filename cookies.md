@@ -34,6 +34,8 @@ These cookies help remember settings and preferences such as language, region, o
 
 We may use cookies to measure marketing performance, understand the effectiveness of campaigns, and support Bento's advertising or remarketing activities on our marketing properties. These cookies may be set by us or by third-party providers we use for those purposes. Where applicable law requires consent for advertising, measurement, analytics, or other non-essential cookies, we will rely on the consent choices we make available for the relevant property.
 
+These cookies and similar technologies may collect identifiers, device information, browser activity, referral information, page and feature interactions, and campaign or conversion data. Depending on the property, vendor, and jurisdiction, this type of collection may be treated as advertising, sharing, or targeted advertising under applicable privacy law.
+
 ## Third-party cookies
 
 Some third-party service providers we use may place cookies or similar technologies on our websites or applications in order to deliver services to us, such as analytics, embedded content, payment processing, fraud prevention, or advertising measurement.
@@ -47,6 +49,8 @@ Most browsers accept cookies by default, but you can usually change your browser
 If we make cookie choices available on a specific site or service, you can also use those tools to manage your preferences for that property.
 
 If you use multiple browsers or devices, you may need to update your preferences on each one separately.
+
+Where applicable law gives you the right to opt out of targeted advertising or similar cookie-based disclosures, you may exercise that right using the cookie choices or consent tools we make available on the relevant property, or by contacting us using the details in our Privacy Policy.
 
 ## Changes to this policy
 

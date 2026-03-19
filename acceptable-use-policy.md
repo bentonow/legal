@@ -22,10 +22,13 @@ You may not use the Services, or allow any other person to use the Services thro
 - impersonate any person or entity, misrepresent your affiliation, spoof headers or identities, phish, or access or use another person's account without permission;
 - send to purchased, rented, borrowed, scraped, appended, enriched, third-party, or otherwise non-permission-based lists;
 - harvest, collect, enrich, append, or otherwise obtain information about people without a lawful basis or required consent;
+- engage in snowshoeing, traffic spreading, domain rotation, sender identity rotation, or similar practices intended to evade spam filters, carrier controls, provider policies, enforcement, or reputation systems;
+- use Bento to clean, validate, warm, score, enrich, bridge, or waterfall traffic to another provider where the primary purpose is to bypass another platform's rules, sending restrictions, or deliverability controls;
 - harm minors, interact with minors in an unlawful or inappropriate way, or target children in violation of law;
 - disable, avoid, circumvent, probe, damage, or otherwise interfere with security, authentication, access controls, or technical restrictions of the Services;
 - overload, disrupt, or attempt to overwhelm the Services or related infrastructure, including through excessive automated requests, abusive API usage, denial-of-service activity, or usage materially beyond documented or permitted limits;
 - use Bento's name, marks, or metadata in a misleading way, including in hidden text, meta tags, or other deceptive contexts;
+- promote or facilitate speculative or high-risk financial activity that we determine creates elevated legal, abuse, fraud, chargeback, or reputational risk, including deceptive token, cryptocurrency, or digital asset schemes;
 - use the Services in violation of applicable messaging or communications industry standards, including carrier, platform, CTIA, and similar rules where applicable; or
 - authorize, permit, enable, induce, or encourage any third party to do any of the above.
 
@@ -39,6 +42,7 @@ You may not use the Services to store, process, display, send, transmit, or soli
 - malware, viruses, Trojan horses, spyware, worms, malicious code, or other harmful software or payloads;
 - spam or commercial electronic messages sent in violation of the Spam Act 2003 (Cth), CAN-SPAM, GDPR, TCPA, or any similar law applicable to you, your recipients, or your use of the Services;
 - SMS, MMS, push, or other messaging traffic that violates carrier rules, platform rules, or telemarketing and consumer protection laws;
+- SMS, MMS, email, or other campaigns designed primarily for affiliate arbitrage, lead brokering, list reselling, traffic arbitrage, or similar intermediary marketing models that we determine create elevated abuse, consent, or reputational risk;
 - special category or sensitive data, medical records, protected health information, non-public government identifiers, financial account information, payment card information, or children's data, unless we expressly agree otherwise in writing; or
 - any data or content that we determine, in our sole discretion, creates legal, regulatory, reputational, abuse, fraud, security, or deliverability risk for Bento, our suppliers, or our customers.
 

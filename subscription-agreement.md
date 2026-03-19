@@ -6,7 +6,7 @@ description: Commercial terms for Bento's paid plans, billing, renewals, cancell
 
 This Subscription Agreement applies to paid Bento plans and supplements Bento's Terms. Capitalized terms not defined in this Subscription Agreement have the meanings given in the Terms.
 
-If there is a conflict between this Subscription Agreement and the Terms, this Subscription Agreement controls for billing, subscription term, renewal, cancellation, and refunds. The Terms control for all other matters.
+If there is a conflict between this Subscription Agreement and the Terms, this Subscription Agreement controls for pricing, billing, subscription term, renewal, cancellation, refunds, usage limits, and other plan-specific commercial terms. The Terms control for all other matters.
 
 ## 1. Subscriptions
 
@@ -44,6 +44,8 @@ Bento may continue to follow up on overdue amounts and may use third-party colle
 To the extent permitted by law, overdue amounts may accrue interest at a rate equal to the Reserve Bank of Australia's cash rate, from time to time, plus 2% per annum, calculated daily and compounding monthly, or, if lower, the maximum rate permitted by applicable law.
 
 You are responsible for all reasonable costs Bento incurs in collecting overdue amounts, including payment processing costs, collection costs, and legal fees.
+
+If you believe a charge is incorrect, you must notify Bento in writing within 30 days after the date of the charge or invoice and provide reasonably detailed information about the basis of the dispute. If you do not do so, you agree that, to the maximum extent permitted by law, you waive the right to dispute that charge later. You must still pay any undisputed amounts when due.
 
 ## 5. Fee changes
 
@@ -93,6 +95,8 @@ Bento may suspend or terminate your Subscription or account immediately, with or
 Where reasonably practicable and appropriate in the circumstances, Bento may allow you to cure or remediate the issue before termination, but Bento is not required to do so where Bento believes immediate action is necessary for legal, security, abuse, deliverability, reputational, operational, or collection reasons.
 
 Suspension or termination of a Subscription does not waive Bento's right to collect amounts already due or becoming due for the applicable Billing Cycle or committed term.
+
+Unless prohibited by law or expressly agreed otherwise in writing, Fees continue to accrue during any period of suspension where the underlying Billing Cycle or committed term remains in effect.
 
 ## 10. Effect of cancellation or termination
 
