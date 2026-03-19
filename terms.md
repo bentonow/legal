@@ -47,7 +47,7 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 
 1.3            Variations: We may amend these Terms at any time, by providing written notice to you. By clicking “I accept”, or by continuing to use our Platform from the date that is 30 days after notification, you agree to the amended Terms. If you do not agree to the amendment, you may close your Account with effect from the date of the change in these Terms by providing written notice to us. If you close your Account, you will no longer be able to access our Services (including our Platform) on and from the date of cancellation.
 
-1.4            Subscription Agreement and policies: We may offer paid plans, billing terms, or commercial terms under a separate subscription agreement, order form, checkout flow, or plan page (each a Subscription Agreement). If there is a conflict between these Terms and a Subscription Agreement, the Subscription Agreement will control only for pricing, billing cycle, renewal, cancellation, refunds, usage limits, and plan-specific commercial terms. Our Acceptable Use Policy, Privacy Policy, Cookie Policy, Copyright Policy, and, where applicable, our API Terms and any data processing terms made available by us are incorporated into these Terms by reference.
+1.4            Subscription Agreement and policies: We may offer paid plans, billing terms, or commercial terms under a separate subscription agreement, order form, checkout flow, or plan page (each a Subscription Agreement). If there is a conflict between these Terms and a Subscription Agreement, the Subscription Agreement will control only for pricing, billing cycle, renewal, cancellation, refunds, usage limits, and plan-specific commercial terms. Our Acceptable Use Policy, Privacy Policy, Cookie Policy, Copyright Policy, SMS Messaging Compliance Policy, and, where applicable, our API Terms and any data processing terms made available by us are incorporated into these Terms by reference. We may also make available a Subprocessor List, Security Overview, Government Requests Policy, Abuse Reporting page, and similar informational materials. Unless we expressly state otherwise in writing, those informational materials do not create independent service levels, warranties, or audit rights.
 
 ### 2 — Our Services
 2.1            We provide the following services to you:
@@ -173,7 +173,7 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 
 8.2            However, either you or we may share confidential information with legal or regulatory authorities if required by law to do so.
 
-8.3            We collect, hold and disclose and use any Personal Information you provide to us in accordance with our privacy policy, available at https://bentonow.com/legal/privacy, and applicable privacy laws.
+8.3            We collect, hold and disclose and use any Personal Information you provide to us in accordance with our privacy policy, available at https://bentonow.com/legal/privacy, and applicable privacy laws. Additional information about our subprocessors, security practices, government requests handling, and abuse reporting may also be made available on our legal pages from time to time.
 
 8.4            You must only disclose Personal Information to us if you have the right to do so (such as having the individual’s express consent).
 
@@ -218,7 +218,7 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 
 11.3         You may also terminate these Terms at any time by notifying us through your Account or to our email for notices (as set out in clause 12.8), and termination will take effect immediately unless a later date is stated by you or required under an applicable Subscription Agreement.
 
-11.4         Upon termination of these Terms, your access to the Services may end immediately and you are responsible for exporting any Your Data that you wish to retain before termination if export functionality is made available to you. We may retain, delete, or continue to store Your Data (including copies and backups) as required or permitted by law, regulatory requirements, ordinary backup cycles, our Privacy Policy, or our legitimate business purposes relating to security, fraud prevention, dispute resolution, and enforcement.
+11.4         Upon termination of these Terms, your access to the Services may end immediately and you are responsible for exporting any Your Data that you wish to retain before termination if export functionality is made available to you. Unless we expressly agree otherwise in writing, we are not required to maintain account access after termination. Subject to our Privacy Policy, legal obligations, security needs, abuse investigations, disputes, enforcement, unpaid amounts, and ordinary backup processes, we generally aim to begin deletion of customer content from active systems within 30 days after account closure or verified deletion request, and to allow residual encrypted backups to expire or be overwritten in the ordinary course within up to 90 days after that. We may retain, delete, or continue to store Your Data (including copies and backups) for longer where required or permitted by law, regulatory requirements, legitimate business purposes, or our standard backup, logging, fraud prevention, and security processes.
 
 11.5         Termination of these Terms will not affect any other rights or liabilities that we or you may have. 
 
@@ -259,7 +259,11 @@ Consequential Loss includes any consequential loss, special or indirect loss, re
 
 Cookie Policy means the policy describing our use of cookies and similar technologies, available at https://bentonow.com/legal/cookies.
 
+Government Requests Policy means the policy describing how we handle subpoenas, court orders, emergency requests, and similar legal process, available at https://bentonow.com/legal/government-requests.
+
 Copyright Policy means the policy governing copyright or intellectual property complaints, available at https://bentonow.com/legal/copyright-policy.
+
+Abuse Reporting page means the page describing how recipients, customers, and third parties can report spam, phishing, SMS abuse, infringing content, or other misuse of the Services, available at https://bentonow.com/legal/abuse-reporting.
 
 Identified Contacts has the meaning given in clause 3.4.
 
@@ -270,6 +274,8 @@ Personal Information means any information or opinion about an identified indivi
 Platform means our cloud-based platform, available at https://bentonow.com/.
 
 Subscription Agreement means any separate subscription agreement, order form, checkout flow, plan terms, or other commercial terms accepted by you or made available by us for pricing, billing, usage limits, or subscription-specific features of the Services.
+
+SMS Messaging Compliance Policy means the policy describing additional rules and compliance requirements for SMS, MMS, and similar mobile messaging sent through the Services, available at https://bentonow.com/legal/sms-messaging-policy.
 
 Privacy Act means the Privacy Act 1988 (Cth) or equivalent privacy laws in the jurisdiction you conduct business in.
 

@@ -19,6 +19,16 @@ If you use Bento to process personal information about your own contacts, subscr
 
 If Bento processes personal information for you as a processor or service provider, our data processing terms available through `gdpr.bentonow.com` may also apply, together with any other agreement you have with us. This Privacy Policy describes our general privacy practices. The more specific controller, processor, security, and transfer terms in your agreement with us or the applicable data processing addendum will control to the extent of any inconsistency.
 
+## Our role
+
+Bento does not have the same role for every type of personal information we handle.
+
+- For account, billing, marketing, website visitor, support, and business operations data, we generally act as a controller or business that decides how that information is used.
+- For contact data, event data, message content, and similar customer-uploaded information processed through the Services on a customer's behalf, we generally act as a processor or service provider.
+- If you are a recipient, subscriber, customer, or end user of a Bento customer, that customer is usually the primary party responsible for your relationship data, campaign content, and messaging choices. In many cases, you should contact that customer first.
+
+Additional information about our subprocessors, security practices, and government requests handling is available on our legal pages.
+
 ## 1. Information we collect
 
 We may collect the following categories of information, depending on how you interact with Bento:
@@ -102,6 +112,8 @@ We may disclose personal information to:
 - debt collection, payment recovery, or similar providers where amounts remain unpaid; and
 - a buyer, successor, or counterparty involved in a merger, acquisition, financing, reorganisation, sale of assets, or similar transaction.
 
+A current overview of the subprocessors and similar service providers we may use is available on our Subprocessors page.
+
 We may also disclose information where we reasonably believe it is necessary to enforce our agreements, investigate misuse, protect the Services, or protect the rights, property, and safety of Bento or others.
 
 If you connect Bento to a third-party integration, app, platform, or service, you instruct us to share relevant information with that provider as needed to operate the integration you enabled. Your use of that third-party service is governed by the provider's own terms and privacy practices.
@@ -167,7 +179,11 @@ We retain personal information for as long as reasonably necessary for the purpo
 
 How long we retain personal information depends on the type of information, the nature of our relationship with you or our customer, the Services involved, our legal and operational needs, backup and disaster recovery cycles, and whether we need the information to establish, exercise, or defend legal claims.
 
-We use commercially reasonable technical and organisational measures to protect personal information against loss, misuse, and unauthorised access, disclosure, alteration, or destruction. No system or method of transmission is completely secure, and we do not guarantee absolute security.
+For account and business records that we control directly, we may retain information for as long as the account remains active and for a reasonable period afterwards for billing, support, compliance, fraud prevention, security, and dispute resolution.
+
+For customer-uploaded content and similar service data, subject to legal obligations, security needs, abuse investigations, disputes, enforcement, unpaid amounts, and ordinary backup processes, we generally aim to begin deletion from active systems within 30 days after account closure or a verified deletion request, and to allow residual encrypted backups to expire or be overwritten in the ordinary course within up to 90 days after that.
+
+We use commercially reasonable technical and organisational measures to protect personal information against loss, misuse, and unauthorised access, disclosure, alteration, or destruction. More information about our general security practices is available in our Security Overview. No system or method of transmission is completely secure, and we do not guarantee absolute security.
 
 ## 8. Your rights and choices
 
@@ -181,6 +197,8 @@ You may also:
 - make a complaint to us or, where applicable, to a regulator or data protection authority.
 
 If you are a Bento customer and the request relates to personal information that you control inside the Services, we may direct you to handle the request directly through your account or under your agreement with us.
+
+If you are an end user, subscriber, or recipient of one of our customers and your request relates to data that customer controls in Bento, you should usually contact that customer first. We may forward your request to the relevant customer or ask you for more information so we can determine who controls the data.
 
 If you are a resident of a U.S. state with an applicable privacy law, you may also have the right to:
 
@@ -215,5 +233,7 @@ Your continued use of the Services after the updated policy becomes effective me
 ## 13. Contact us
 
 If you have questions, requests, or complaints about this Privacy Policy or our handling of personal information, please contact us through `bentonow.com/contact` or by emailing `support@bentonow.com`.
+
+You can also review our Subprocessors page, Security Overview, Government Requests Policy, and Abuse Reporting page for additional information about specific privacy-related topics.
 
 Last updated: 2026-03-19

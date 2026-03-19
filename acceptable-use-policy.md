@@ -8,6 +8,8 @@ Bento provides email, messaging, automation, and related tools that depend on sh
 
 This Acceptable Use Policy (this `Policy`) applies to any website, product, service, API, integration, or feature provided by Bento (collectively, the `Services`), whether provided directly by us or through a partner. By accessing or using the Services, you agree to comply with this Policy.
 
+If you use Bento for SMS, MMS, or similar mobile messaging, you must also comply with our SMS Messaging Compliance Policy.
+
 The examples below are not exhaustive. Capitalized terms not defined here have the meanings given in our Terms.
 
 ## Prohibited conduct
@@ -66,4 +68,4 @@ We may update this Policy from time to time by posting an updated version on our
 
 ## Reporting violations
 
-If you become aware of a violation of this Policy, please contact `report@bentonow.com`.
+If you become aware of a violation of this Policy, please contact `report@bentonow.com` and include as much detail as you can about the relevant account, domain, sender identity, campaign, URL, or message. Additional reporting guidance is available on our Abuse Reporting page.

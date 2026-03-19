@@ -106,7 +106,7 @@ Upon cancellation or termination:
 - Bento may downgrade, suspend, or close the account or restrict access to data or functionality;
 - unpaid amounts become immediately due;
 - prepaid amounts are not refundable except where required by law; and
-- Bento may retain or delete data as described in the Terms, Privacy Policy, or as otherwise permitted by law.
+- Bento may retain or delete data as described in the Terms, Privacy Policy, or as otherwise permitted by law. Unless we expressly agree otherwise in writing, we are not required to preserve full account access after cancellation or termination, and post-termination deletion may occur on the timelines described in the Terms and Privacy Policy.
 
 Any provision of this Subscription Agreement that by its nature should survive will survive, including provisions relating to payment obligations, collections, taxes, refunds, disclaimers, liability limitations, and Bento's enforcement rights.
 
