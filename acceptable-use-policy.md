@@ -1,76 +1,65 @@
-Updated: August 14th 2023
+---
+title: Acceptable Use Policy
+updated_at: 2026-03-19
+description: Rules governing permitted use of Bento's email, messaging, and automation services.
+---
 
-Here at Bento, we're on a mission to provide an excellent experience in email marketing and automation. To do this, we need to keep our products and services running smoothly and without distraction, and we need the members of our community not to misuse or abuse them. 
+Bento provides email, messaging, automation, and related tools that depend on shared infrastructure, sending reputation, legal compliance, and trust. This Acceptable Use Policy explains the conduct, content, and use cases we do not allow on or through Bento.
 
-There are some activities that are incompatible with Bento's goals, and this Acceptable Use Policy describes those prohibited activities in detail.
+This Acceptable Use Policy (this `Policy`) applies to any website, product, service, API, integration, or feature provided by Bento (collectively, the `Services`), whether provided directly by us or through a partner. By accessing or using the Services, you agree to comply with this Policy.
 
-Why the need for such strict policies?
+The examples below are not exhaustive. Capitalized terms not defined here have the meanings given in our Terms.
 
-- Bad actors can harm our IP reputation, which can affect the deliverability of all of our customers' messages.
-- Bad actors can blacklist our domains, which can affect the deliverability of all of our customers' messages.
+## Prohibited conduct
 
-This Acceptable Use Policy (this “Policy“) applies to the use of any product, service or website provided by Bento (collectively, the “Services“), whether we provide it directly or a partner of ours provides it to you. By using any of the Services, you are agreeing to this Policy.
+You may not use the Services, or allow any other person to use the Services through your account, to:
 
-The examples described in this Policy are not exhaustive. Capitalized terms used below but not defined in this Policy have the meanings set forth in our Terms of Service.
+- promote, condone, encourage, or facilitate hate, violence, or discrimination based on race, ethnicity, color, national origin, religion, age, sex, gender, gender identity, sexual orientation, disability, medical condition, veteran status, or any similar protected characteristic;
+- engage in, promote, facilitate, or assist unlawful activity, or violate any applicable law, regulation, code, or industry rule, including privacy, spam, consumer protection, export control, and telecommunications laws;
+- offer, market, promote, or operate high-risk or prohibited businesses or campaigns, including escort or adult dating services, multi-level marketing, list brokers, list rental services, credit repair or debt relief schemes, gambling, unlicensed pharmaceutical sales, social media engagement manipulation, make-money-online schemes, lead generation schemes based on purchased or scraped data, or any substantially similar business model we determine creates legal, abuse, reputational, or deliverability risk;
+- violate the rights of others, including privacy rights, publicity rights, intellectual property rights, and anti-spam rights;
+- remove, obscure, or alter copyright, trademark, or other proprietary notices contained in the Services;
+- impersonate any person or entity, misrepresent your affiliation, spoof headers or identities, phish, or access or use another person's account without permission;
+- send to purchased, rented, borrowed, scraped, appended, enriched, third-party, or otherwise non-permission-based lists;
+- harvest, collect, enrich, append, or otherwise obtain information about people without a lawful basis or required consent;
+- harm minors, interact with minors in an unlawful or inappropriate way, or target children in violation of law;
+- disable, avoid, circumvent, probe, damage, or otherwise interfere with security, authentication, access controls, or technical restrictions of the Services;
+- overload, disrupt, or attempt to overwhelm the Services or related infrastructure, including through excessive automated requests, abusive API usage, denial-of-service activity, or usage materially beyond documented or permitted limits;
+- use Bento's name, marks, or metadata in a misleading way, including in hidden text, meta tags, or other deceptive contexts;
+- use the Services in violation of applicable messaging or communications industry standards, including carrier, platform, CTIA, and similar rules where applicable; or
+- authorize, permit, enable, induce, or encourage any third party to do any of the above.
 
-### Prohibited Conduct
+## Prohibited content and data
 
-You may not use the Services to:
+You may not use the Services to store, process, display, send, transmit, or solicit:
 
-- Promote, condone, encourage or facilitate hate, violence or discrimination against people based on race, ethnicity, color, national origin, religion, age, gender, gender identity, sexual orientation, disability, medical condition, veteran status or any other characteristic;
+- content that promotes, condones, encourages, or facilitates hate, violence, or discrimination as described above;
+- content that is unlawful, deceptive, fraudulent, defamatory, libelous, threatening, harassing, obscene, pornographic, harmful to minors, or materially misleading;
+- content that infringes, misappropriates, or otherwise violates the rights of any third party;
+- malware, viruses, Trojan horses, spyware, worms, malicious code, or other harmful software or payloads;
+- spam or commercial electronic messages sent in violation of the Spam Act 2003 (Cth), CAN-SPAM, GDPR, TCPA, or any similar law applicable to you, your recipients, or your use of the Services;
+- SMS, MMS, push, or other messaging traffic that violates carrier rules, platform rules, or telemarketing and consumer protection laws;
+- special category or sensitive data, medical records, protected health information, non-public government identifiers, financial account information, payment card information, or children's data, unless we expressly agree otherwise in writing; or
+- any data or content that we determine, in our sole discretion, creates legal, regulatory, reputational, abuse, fraud, security, or deliverability risk for Bento, our suppliers, or our customers.
 
-- Engage in, promote or facilitate any illegal activity or violate any applicable local, state, national or international law or regulation (including without limitation data, spam, privacy, and export control laws);
+## Enforcement
 
-- Offer products, services or content related to any of the following industries: escort and dating services; multi-level marketing; affiliate marketing; credit repair and “get out of debt” services; cryptocurrencies; selling ‘Likes’ or followers for a social media platform; work from home, make money online, and lead generating opportunities; pharmaceutical products; gambling products or services; or list brokers or list rental services;
+We may, but are not required to, monitor or investigate use of the Services for compliance with this Policy, our Terms, and any other agreement between you and us.
 
-- Violate the rights of others (including spam and privacy rights);
+We may suspend or terminate access to the Services, remove content, delay, reject, block, or throttle traffic, require remediation, or take any other action we consider appropriate, with or without prior notice as permitted by the Terms and applicable law, and without liability to the extent permitted by law, if we determine in our sole discretion that:
 
-- Remove any copyright, trademark or other proprietary rights notices contained in or on the Services or reformat or frame any portion of any web pages that are part of the Services;
+- you or your end users have violated this Policy or helped others do so;
+- your use of the Services poses or could pose spam, abuse, fraud, security, deliverability, legal, regulatory, or reputational risk to Bento, the Services, our suppliers, or other customers; or
+- conduct related to your account, onboarding, data sources, sending practices, message content, integrations, or business model conflicts with this Policy, our Terms, or our risk standards.
 
-- Impersonate others or falsely state or otherwise misrepresent your affiliation with any person, group or entity (including by “spoofing,” “phishing,” manipulating headers or other identifiers) including falsely implying that you are affiliated with or endorsed by Bento or any other third party, or access the Services via another user’s account without their permission;
+We may rely on any information reasonably available to us, including complaints, bounce data, spam complaints, carrier or platform feedback, third-party reports, and technical signals.
 
-- Email purchased, rented, borrowed, third-party or any other lists that have not consented to receive communications, promotions or advertisements from your business;
+Nothing in this Policy limits any other right or remedy available to us under contract, at law, or in equity.
 
-- Harvest or otherwise collect information about others without their consent (services like Retention.com are not allowed);
+## Changes to this policy
 
-- Interfere with other users’ enjoyment of the Services;
+We may update this Policy from time to time by posting an updated version on our website or through the Services, or by otherwise providing notice to you. Unless we state a different effective date, the updated version becomes effective when posted or when notice is given, except to the extent a longer notice period is required by the Terms, another agreement with you, or applicable law. Your continued use of the Services after the updated version becomes effective constitutes acceptance of the revised Policy.
 
-- Harm minors or interacts with or target people under the age of thirteen;
+## Reporting violations
 
-- Disable, avoid, or circumvent, damage or otherwise interfere with any security or access-related features or restrictions of the Services, features that prevent or restrict the use or copying of content from the Services, or features that enforce limitations on the use of the Services;
-
-- Overwhelm or attempt to overwhelm our infrastructure by imposing an unreasonably large load on the Services that consume extraordinary resources, such as by: (i) using “robots,” “spiders,” “offline readers” or other automated systems to send more request messages to our servers than a person could reasonably send in the same period of time using a normal browser; or (ii) going far beyond the use parameters for the Services;
-
-- Use meta tags or any other “hidden text” including Bento’s or our suppliers’ product names or trademarks;
-
-- Use the Services in violation of applicable industry standards, including all applicable guidelines published by the CTIA and the Mobile Marketing Association;
-
-- Disparage Bento or our partners, vendors, or affiliates; or
-
-- Authorize, permit, enable, induce or encourage any third party to do any of the above.
-
-### Prohibited Content
-
-You may not use the Services to solicit, display, store, process, send or transmit:
-
-- Content that promotes, condones, encourages or facilitates hate, violence or discrimination against people based on race, ethnicity, color, national origin, religion, age, gender, gender identity, sexual orientation, disability, medical condition, veteran status or any other characteristic;
-
-- Obscene, indecent, defamatory, libelous, deceptive, fraudulent, pornographic, harmful to minors, threatening, excessively profane or otherwise objectionable material;
-
-- Content that violates, encourages or furthers conduct that would violate any applicable laws;
-
-- Content that infringes or misappropriates intellectual property rights, or otherwise violates a third party’s rights;
-
-- Any of the following types of data or information: (a) any information defined under Regulation (EU) 2016/679 (EU GDPR) or the United Kingdom General Data Protection Regulation as a “special category”; (b) medical records or health information, including Protected Health Information as defined in the Health Insurance Portability and Accountability Act; (c) any non-public government identification numbers or financial account information such as (i) Social Security number or local equivalents, passport numbers, driver’s license number or similar identifiers or (ii) financial account information including credit or debit card number; and (d) information related to children under the age of 13 (or in the EEA, under 16);
-
-- Malware, viruses, Trojan horses, spyware, worms, or other malicious or harmful code;
-
-- Spam or commercial electronic messages in violation of the Spam Act 2003 (Cth) or equivalent spam regulations in the jurisdiction you conduct business in , the General Data Protection Regulation or any other applicable law or regulation; or
-
-- SMS, MMS, or other text messages or push notifications that violate the Telephone Consumer Protection Act or any other applicable telemarketing or telephone consumer protection law or regulation.
-
-We have the right, but not the obligation, to monitor or investigate your use of the Services at any time for compliance with this Policy, our Terms of Service, or any other agreement between you and us governing your use of the Services. If we determine (in our sole discretion) that you engage in activities that violate the letter or spirit of this Policy, including activities outside of your use of the Services, or authorize or help others to do so, we may suspend or terminate your use of the Services without notice or liability.
-
-We may update this Policy from time to time by posting an updated version at bentonow.com/legal/acceptable-use-policy and any such updates will be effective upon posting. When we update this Policy, the “Last Updated” date above will be updated to reflect the date of the most recent version. Your continued use of the Services constitutes your acceptance of the modified Policy. We encourage you to review this Policy regularly.
-
-If you become aware of any violation of this Policy, please contact us at report@bentonow.com.
+If you become aware of a violation of this Policy, please contact `report@bentonow.com`.

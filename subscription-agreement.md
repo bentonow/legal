@@ -1,91 +1,121 @@
-__Subscriptions__
+---
+title: Subscription Agreement
+updated_at: 2026-03-19
+description: Commercial terms for Bento's paid plans, billing, renewals, cancellations, and refunds.
+---
 
-Some parts of the Service are billed on a subscription basis ("Subscription(s)"). You will be billed in advance on a recurring and periodic basis ("Billing Cycle"). Billing cycles are set either on a monthly or annual basis, depending on the type of subscription plan you select when purchasing a Subscription.
+This Subscription Agreement applies to paid Bento plans and supplements Bento's Terms. Capitalized terms not defined in this Subscription Agreement have the meanings given in the Terms.
 
-At the end of each Billing Cycle, your Subscription will automatically renew under the exact same conditions unless you cancel it or Bento cancels it. You may cancel your Subscription renewal either through your online account management page or by contacting Bento customer support team.
+If there is a conflict between this Subscription Agreement and the Terms, this Subscription Agreement controls for billing, subscription term, renewal, cancellation, and refunds. The Terms control for all other matters.
 
-A valid payment method, including credit card, is required to process the payment for your Subscription. You shall provide Bento with accurate and complete billing information including full name, address, state, zip code, telephone number, and a valid payment method information. By submitting such payment information, you automatically authorize Bento to charge all Subscription fees incurred through your account to any such payment instruments.
+## 1. Subscriptions
 
-If you do not submit this information, when requested, we reserve the right to terminate your account.
+Some parts of the Services are billed on a subscription basis (`Subscription`). You will be billed in advance on a recurring basis (`Billing Cycle`). Billing Cycles may be monthly, annual, or any other period made available by Bento when you purchase a Subscription.
 
-Should automatic billing fail to occur for any reason, Bento will issue an electronic invoice indicating that you must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice.
+Your Subscription begins when Bento accepts your order, activates your paid plan, or otherwise makes the paid Services available to you, whichever happens first.
 
-Bento has the write to continue following up on overdue invoices and may utilise 3rd party collection agencies when needed.
+## 2. Renewal
 
-__Fee Changes__
+Your Subscription will automatically renew at the end of each Billing Cycle unless:
 
-Bento, in its sole discretion and at any time, may modify the Subscription fees for the Subscriptions. Any Subscription fee change will become effective at the end of the then-current Billing Cycle.
+- you cancel before the next Billing Cycle starts; or
+- Bento suspends, terminates, or declines to renew the Subscription.
 
-Bento will provide you with a reasonable prior notice of any change in Subscription fees to give you an opportunity to terminate your Subscription before such change becomes effective.
+Unless we expressly state otherwise in writing, each renewal will be for the same Billing Cycle length as the immediately preceding Billing Cycle and will be charged at Bento's then-current pricing for the applicable plan, usage level, and billing period.
 
-Your continued use of the Service after the Subscription fee change comes into effect constitutes your agreement to pay the modified Subscription fee amount.
+## 3. Payment authorization
 
-__Refunds__
+You must provide and maintain a valid payment method approved by Bento in order to purchase or continue a Subscription.
 
-Except when required by law, paid Subscription fees are non-refundable.
+By purchasing a Subscription, you authorize Bento and its payment processors to charge your payment method for:
 
-__Accounts__
+- recurring subscription fees;
+- plan upgrades, overages, usage-based charges, taxes, and similar charges associated with your account; and
+- any overdue amounts, failed payment retries, chargeback-related amounts, or recovery costs we are entitled to collect.
 
-When you create an account with us, you must provide us information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms OR Subscription Agreement, which may result in immediate termination of your account on our Service.
+You must provide accurate, complete, and current billing information. If you fail to do so, or if your payment method fails, we may suspend or terminate your account or require payment by another method before continuing to provide the Services.
 
-You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service.
+## 4. Invoices and overdue amounts
 
-You agree not to disclose your password to any third party. You agree to be fully responsible for activities that relate to your account or your password. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.
+If automatic billing fails or if Bento permits invoice billing, you must pay all amounts due by the date stated on the invoice or payment request.
 
-__Termination__
+Bento may continue to follow up on overdue amounts and may use third-party collection agencies, legal process, or other lawful recovery methods to collect unpaid amounts.
 
-We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Subscription Agreement.
+To the extent permitted by law, overdue amounts may accrue interest at a rate equal to the Reserve Bank of Australia's cash rate, from time to time, plus 2% per annum, calculated daily and compounding monthly, or, if lower, the maximum rate permitted by applicable law.
 
-Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service.
+You are responsible for all reasonable costs Bento incurs in collecting overdue amounts, including payment processing costs, collection costs, and legal fees.
 
-All provisions of the Subscription Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.
+## 5. Fee changes
 
-We shall not be liable to you or any third party for any claims or damages arising out of any termination or suspension or any other actions taken by us in connection therewith.
+Bento may change Subscription pricing, usage thresholds, plan limits, and commercial terms at any time in its sole discretion.
 
-If applicable law requires us to provide notice of termination or cancellation, we may give prior or subsequent notice by posting it on the Service or by sending a communication to any address (email or otherwise) that we have for you in our records.
+Unless a different notice period is required by law or expressly stated by Bento, any pricing change will take effect at the start of the next Billing Cycle following at least 30 days' notice to you.
 
-__Indemnification__
+If you do not cancel your Subscription before the updated pricing takes effect, you authorize Bento to charge the updated amount and your continued use of the Services constitutes acceptance of the updated pricing.
 
-As a condition of your access to and use of the Service, you agree to indemnify us and our successors and assigns for all damages, costs, expenses and other liabilities, including but not limited to legal fees and expenses, relating to any claim arising out of or related to your access to and use of the Service or your breach of this Subscription Agreement and any applicable law or the rights of another person or party.
+## 6. Taxes
 
-This indemnification section survives the expiration of your registration, and applies to claims arising both before and after the registration ends.
+Subscription fees are exclusive of taxes unless we expressly state otherwise. You are responsible for all sales, use, value-added, GST, withholding, and similar taxes or duties associated with your Subscription, other than taxes based on Bento's net income.
 
-__Limitation Of Liability__
+If withholding is required by law, you must gross up the payment so that Bento receives the full amount invoiced.
 
-You agree that we shall not be liable for any damages suffered as a result of using the Service.
+## 7. Refunds
 
-In no event shall we be liable for any indirect, punitive, special, incidental or consequential damage (including loss of business, revenue, profits, use, privacy, data, goodwill or other economic advantage) however it arises, whether for breach of contract or in tort, even if it has been previously advised of the possibility of such damage.
+Except where required by law, all Subscription fees, setup fees, usage charges, and other amounts paid to Bento are non-refundable.
 
-You have sole responsibility for adequate security protection and backup of data and/or equipment used in connection with your usage of the Service and will not make a claim against for lost data, re-run time, inaccurate instruction, work delays or lost profits resulting from the use of the Service.
+The following do not entitle you to a refund, credit, or offset unless Bento agrees otherwise in writing:
 
-Without limiting the foregoing, in no event will our aggregate liability to you exceed, in total, the amounts paid by you to us.
+- partial use of a Billing Cycle;
+- downgrades during a Billing Cycle;
+- account suspension;
+- reduced sending volume or unused quota;
+- message filtering, throttling, blocking, or rejection under Bento's policies; or
+- cancellation after a Billing Cycle has started.
 
-__Disclaimer__
+## 8. Cancellation
 
-Your use of the Service is at your sole risk. The Service is provided on an "AS IS" and "AS AVAILABLE" basis. The Service is provided without warranties of any kind, whether express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, non-infringement or course of performance.
+You may cancel your Subscription through your account settings, through any cancellation workflow Bento makes available, or by contacting Bento support.
 
-Bento its subsidiaries, affiliates, and its licensors do not warrant that a) the Service will function uninterrupted, secure or available at any particular time or location; b) any errors or defects will be corrected; c) the Service is free of viruses or other harmful components; or d) the results of using the Service will meet your requirements.
+Unless Bento expressly agrees otherwise in writing, cancellation takes effect at the end of the current Billing Cycle. Simply stopping use of the Services does not cancel your Subscription or stop recurring charges.
 
-This disclaimer of liability applies to any damages or injury caused by any failure of performance, error, omission, interruption, deletion, defect, delay in operation or transmission, computer virus, communication line failure, theft, or destruction or unauthorized access or, alteration of or use of record in connection with the use or operation of the Service, whether for breach of contract, tortious behaviour, negligence or any other cause of action.
+If your Subscription includes a minimum term or prepaid period, cancellation does not relieve you of fees already committed for that period except where required by law.
 
-We make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the content contained on the Service for any purpose. Any reliance you place on such information is therefore strictly at your own risk. We disclaim any express or implied warranty representation or guarantee as to the effectiveness or profitability of the Service or that the operation of our Service will be uninterrupted or error-free. We are not liable for the consequences of any interruptions or error in the Service.
+## 9. Suspension and termination
 
-__Exclusions__
+Bento may suspend or terminate your Subscription or account immediately, with or without prior notice as permitted by the Terms and applicable law, and without liability to the extent permitted by law, if:
 
-Some jurisdictions do not allow the exclusion of certain warranties or the exclusion or limitation of liability for consequential or incidental damages, so the limitations above may not apply to you.
+- you fail to pay amounts due;
+- your payment method fails and you do not promptly cure the failure;
+- you breach this Subscription Agreement, the Terms, the Acceptable Use Policy, or any other agreement with Bento;
+- Bento determines that your account presents legal, security, fraud, abuse, deliverability, reputational, or collection risk; or
+- Bento otherwise decides, in its sole discretion, not to continue the Subscription.
 
-__Governing Law__
+Where reasonably practicable and appropriate in the circumstances, Bento may allow you to cure or remediate the issue before termination, but Bento is not required to do so where Bento believes immediate action is necessary for legal, security, abuse, deliverability, reputational, operational, or collection reasons.
 
-This Subscription Agreement shall be governed and construed in accordance with the laws of New South Wales, Australia, without regard to its conflict of law provisions.
+Suspension or termination of a Subscription does not waive Bento's right to collect amounts already due or becoming due for the applicable Billing Cycle or committed term.
 
-Our failure to enforce any right or provision of this Subscription Agreement will not be considered a waiver of those rights. If any provision of this Subscription Agreement is held to be invalid or unenforceable by a court, the remaining provisions of this Subscription Agreement will remain in effect. This Subscription Agreement constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.
+## 10. Effect of cancellation or termination
 
-__Changes__
+Upon cancellation or termination:
 
-We reserve the right, at our sole discretion, to modify or replace this Subscription Agreement at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect.
+- your right to use the paid Subscription features ends;
+- Bento may downgrade, suspend, or close the account or restrict access to data or functionality;
+- unpaid amounts become immediately due;
+- prepaid amounts are not refundable except where required by law; and
+- Bento may retain or delete data as described in the Terms, Privacy Policy, or as otherwise permitted by law.
 
-It is your sole responsibility to periodically check this Subscription Agreement for any changes. If you do not agree with any of the changes to this Subscription Agreement, it is your sole responsibility to stop using the Service. Your continued use of the Service will be deemed as your acceptance thereof.
+Any provision of this Subscription Agreement that by its nature should survive will survive, including provisions relating to payment obligations, collections, taxes, refunds, disclaimers, liability limitations, and Bento's enforcement rights.
 
-__Contact Us__
+## 11. No waiver of other rights
 
-If you have any questions about this Subscription Agreement, please contact us.
+This Subscription Agreement does not limit any right or remedy Bento has under the Terms, the Acceptable Use Policy, applicable law, or equity.
+
+## 12. Changes
+
+Bento may modify this Subscription Agreement at any time by posting an updated version on the website or through the Services, or by otherwise providing notice to you.
+
+Unless a different effective date is specified, the updated version becomes effective when the next Billing Cycle begins following at least 30 days' notice to you, or any longer notice period required by applicable law. If you do not agree to the revised Subscription Agreement, you must cancel your Subscription before the revised version takes effect. Continued use of the Services after the revised version takes effect constitutes acceptance of the revised Subscription Agreement.
+
+## 13. Contact us
+
+If you have questions about this Subscription Agreement, please contact `support@bentonow.com`.

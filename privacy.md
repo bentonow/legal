@@ -1,109 +1,160 @@
-Your privacy is important to us. It is Bento's policy to respect your privacy regarding any information we may collect from you across our website, https://bentonow.com, and other sites we own and operate.
+---
+title: Privacy Policy
+updated_at: 2026-03-19
+description: How Bento collects, uses, discloses, and protects personal information.
+---
 
-1. Information we collect
+This Privacy Policy explains how Bento collects, uses, discloses, and otherwise handles personal information when you use `bentonow.com`, our applications, APIs, and related services.
 
-Log data
-When you visit our website, our servers may automatically log the standard data provided by your web browser. It may include your computer’s Internet Protocol (IP) address, your browser type and version, the pages you visit, the time and date of your visit, the time spent on each page, and other details.
+When we say `Bento`, `we`, `us`, or `our`, we mean Backpack Internet Pty. Ltd. trading as Bento Software.
 
-Device data
-We may also collect data about the device you’re using to access our website. This data may include the device type, operating system, unique device identifiers, device settings, and geo-location data. What we collect can depend on the individual settings of your device and software. We recommend checking the policies of your device manufacturer or software provider to learn what information they make available to us.
+This policy applies to personal information we handle about:
 
-Personal information
-We may ask for personal information, such as your:
+- visitors to our websites;
+- people who create or use a Bento account;
+- people who contact us, subscribe to our updates, or otherwise interact with us; and
+- contact data, event data, and message content that our customers upload to or process through Bento, to the extent we handle that information for or on behalf of the customer.
 
-Name
-Email
-Social media profiles
-Date of birth
-Phone/mobile number
-Home/Mailing address
-Work address
-Payment information
+If you use Bento to process personal information about your own contacts, subscribers, customers, or users, you are responsible for making sure you have the necessary rights, notices, and consents for that processing. In those situations, you generally control the data you upload to Bento, and we handle it on your behalf in order to provide, secure, support, and improve the Services, prevent abuse, and comply with law.
 
-2. Legal bases for processing
-We will process your personal information lawfully, fairly and in a transparent manner. We collect and process information about you only where we have legal bases for doing so.
+## 1. Information we collect
 
-These legal bases depend on the services you use and how you use them, meaning we collect and use your information only where:
+We may collect the following categories of information, depending on how you interact with Bento:
 
-it’s necessary for the performance of a contract to which you are a party or to take steps at your request before entering into such a contract (for example, when we provide a service you request from us);
-it satisfies a legitimate interest (which is not overridden by your data protection interests), such as for research and development, to market and promote our services, and to protect our legal rights and interests;
-you give us consent to do so for a specific purpose (for example, you might consent to us sending you our newsletter); or
-we need to process your data to comply with a legal obligation.
-Where you consent to our use of information about you for a specific purpose, you have the right to change your mind at any time (but this will not affect any processing that has already taken place).
+### Account and billing information
 
-We don’t keep personal information for longer than is necessary. While we retain this information, we will protect it within commercially acceptable means to prevent loss and theft, as well as unauthorised access, disclosure, copying, use or modification. That said, we advise that no method of electronic transmission or storage is 100% secure and cannot guarantee absolute data security. If necessary, we may retain your personal information for our compliance with a legal obligation or in order to protect your vital interests or the vital interests of another natural person.
+This may include your name, work email address, company name, billing address, payment details, and other information needed to create, administer, and charge your account. Payment card details are generally processed by our payment providers rather than stored directly by us.
 
-3. Collection and use of information
+### Service and technical information
 
-We may collect, hold, use and disclose information for the following purposes and personal information will not be further processed in a manner that is incompatible with these purposes:
+When you visit our websites or use the Services, we may collect technical and usage data such as:
 
-to enable you to customise or personalise your experience of our website;
-to enable you to access and use our website, associated applications and associated social media platforms;
-to contact and communicate with you;
-for internal record keeping and administrative purposes;
-for analytics, market research and business development, including to operate and improve our website, associated applications and associated social media platforms;
-to run competitions and/or offer additional benefits to you;
-for advertising and marketing, including to send you promotional information about our products and services and information about third parties that we consider may be of interest to you;
-to comply with our legal obligations and resolve any disputes that we may have; and
-to consider your employment application.
+- IP address;
+- browser type and version;
+- device type and operating system;
+- pages or screens viewed;
+- time and date of access;
+- referring URLs;
+- approximate location derived from IP address;
+- error logs; and
+- account, session, and authentication activity.
 
-4. Disclosure of personal information to third parties
+### Customer content and contact data
+
+If you use Bento, we may process information that you upload to the Services or instruct us to process for you, including mailing lists, subscriber and customer data, event data, automations, templates, campaign content, transactional content, and message metadata. We generally handle this information on your behalf so that you can create, send, route, automate, and analyse email, SMS, and related communications through Bento.
+
+### Communications and support information
+
+If you contact us, respond to our emails, submit a support request, or otherwise communicate with us, we may collect the contents of those communications and related contact details.
+
+### Information from third parties
+
+We may receive information from payment providers, analytics providers, integration partners, fraud and abuse tools, customer referral sources, and other third parties that help us operate, secure, market, or support the Services.
+
+## 2. How we use information
+
+We may collect, use, disclose, and otherwise handle personal information that we control to:
+
+- provide, operate, maintain, and secure the Services;
+- create and administer accounts;
+- process payments and collect amounts owed to us;
+- send, route, process, and support email, SMS, and other communications requested through Bento;
+- provide customer support and respond to questions or requests;
+- detect, investigate, and prevent spam, fraud, abuse, security incidents, unlawful activity, and violations of our agreements or policies;
+- monitor performance, debug issues, and improve the Services;
+- communicate with you about the Services, account activity, billing, legal notices, and policy changes;
+- send marketing communications about Bento where permitted by law;
+- comply with legal obligations, enforce our rights, and resolve disputes; and
+- evaluate, protect, and improve our products, business, and infrastructure.
+
+For customer content and contact data processed through Bento on behalf of a customer, we generally use that information only to:
+
+- provide, operate, secure, and support the Services requested by that customer;
+- send, route, process, personalise, deliver, or suppress communications at the customer's direction;
+- generate reporting, analytics, deliverability insights, and message performance information for the customer;
+- detect, investigate, prevent, and mitigate spam, fraud, abuse, security incidents, and policy violations;
+- comply with law, enforce our agreements, and protect Bento, our customers, recipients, and the Services; and
+- create aggregated or de-identified analytics, insights, and operational metrics that do not reasonably identify the customer or any individual.
+
+We do not use customer-uploaded contact lists or message content to market Bento to those contacts for our own independent marketing purposes.
+
+## 3. Legal bases for processing
+
+Where applicable law requires us to identify a legal basis for processing, we generally rely on one or more of the following:
+
+- performance of a contract with you, or taking steps at your request before entering into a contract;
+- our legitimate interests, including operating the Services, preventing abuse, improving performance, protecting our legal rights, and marketing Bento;
+- your consent, where required by law; and
+- compliance with legal obligations.
+
+Where we rely on your consent, you may withdraw it at any time. Withdrawal does not affect processing that has already taken place.
+
+## 4. Disclosure of personal information
+
 We may disclose personal information to:
 
-third party service providers for the purpose of enabling them to provide their services, including (without limitation) IT service providers, data storage, hosting and server providers, ad networks, analytics, error loggers, debt collectors, maintenance or problem-solving providers, marketing or advertising providers, professional advisors and payment systems operators;
-our employees, contractors and/or related entities;
-sponsors or promoters of any competition we run;
-credit reporting agencies, courts, tribunals and regulatory authorities, in the event you fail to pay for goods or services we have provided to you;
-courts, tribunals, regulatory authorities and law enforcement officers, as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights;
-third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you; and
-third parties to collect and process data.
+- our employees, contractors, related companies, and advisers;
+- service providers that help us operate the Services, including hosting, infrastructure, analytics, logging, payment processing, support, communications, fraud prevention, and security providers;
+- integration partners and third-party services that you choose to connect to your Bento account;
+- law enforcement, regulators, courts, tribunals, and similar authorities where required or permitted by law;
+- debt collection, payment recovery, or similar providers where amounts remain unpaid; and
+- a buyer, successor, or counterparty involved in a merger, acquisition, financing, reorganisation, sale of assets, or similar transaction.
 
-5. International transfers of personal information
+We may also disclose information where we reasonably believe it is necessary to enforce our agreements, investigate misuse, protect the Services, or protect the rights, property, and safety of Bento or others.
 
-The personal information we collect is stored and processed in United States and Australia, or where we or our partners, affiliates and third-party providers maintain facilities. By providing us with your personal information, you consent to the disclosure to these overseas third parties.
+## 5. International transfers
 
-We will ensure that any transfer of personal information from countries in the European Economic Area (EEA) to countries outside the EEA will be protected by appropriate safeguards, for example by using standard data protection clauses approved by the European Commission, or the use of binding corporate rules or other legally accepted means.
+The personal information we collect may be stored and processed in Australia, the United States, and other countries where we, our affiliates, or our service providers operate.
 
-Where we transfer personal information from a non-EEA country to another country, you acknowledge that third parties in other jurisdictions may not be subject to similar data protection laws to the ones in our jurisdiction. There are risks if any such third party engages in any act or practice that would contravene the data privacy laws in our jurisdiction and this might mean that you will not be able to seek redress under our jurisdiction’s privacy laws.
+Where applicable law requires additional safeguards for international transfers, we will use safeguards that we consider appropriate and legally sufficient for the circumstances, which may include contractual protections or other recognised transfer mechanisms.
 
-6. Your rights and controlling your personal information
+By using the Services or providing information to us, you acknowledge that information may be transferred to and processed in countries outside your place of residence. Those jurisdictions may not provide the same legal protections as your home jurisdiction.
 
-Choice and consent: By providing personal information to us, you consent to us collecting, holding, using and disclosing your personal information in accordance with this privacy policy. If you are under 16 years of age, you must have, and warrant to the extent permitted by law to us, that you have your parent or legal guardian’s permission to access and use the website and they (your parents or guardian) have consented to you providing us with your personal information. You do not have to provide personal information to us, however, if you do not, it may affect your use of this website or the products and/or services offered on or through it.
+## 6. Retention and security
 
-Information from third parties: If we receive personal information about you from a third party, we will protect it as set out in this privacy policy. If you are a third party providing personal information about somebody else, you represent and warrant that you have such person’s consent to provide the personal information to us.
+We retain personal information for as long as reasonably necessary for the purposes described in this policy, including to provide the Services, comply with legal obligations, resolve disputes, enforce our agreements, maintain backups, and protect our business.
 
-Restrict: You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us using the details below. If you ask us to restrict or limit how we process your personal information, we will let you know how the restriction affects your use of our website or products and services.
+We use commercially reasonable technical and organisational measures to protect personal information against loss, misuse, and unauthorised access, disclosure, alteration, or destruction. No system or method of transmission is completely secure, and we do not guarantee absolute security.
 
-Access and data portability: You may request details of the personal information that we hold about you. You may request a copy of the personal information we hold about you. Where possible, we will provide this information in CSV format or other easily readable machine format. You may request that we erase the personal information we hold about you at any time. You may also request that we transfer this personal information to another third party.
+## 7. Your rights and choices
 
-Correction: If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us using the details below. We will take reasonable steps to correct any information found to be inaccurate, incomplete, misleading or out of date.
+Depending on where you are located, you may have rights to access, correct, delete, restrict, object to, or request portability of personal information we hold about you.
 
-Notification of data breaches: We will comply laws applicable to us in respect of any data breach.
+You may also:
 
-Complaints: If you believe that we have breached a relevant data protection law and wish to make a complaint, please contact us using the details below and provide us with full details of the alleged breach. We will promptly investigate your complaint and respond to you, in writing, setting out the outcome of our investigation and the steps we will take to deal with your complaint. You also have the right to contact a regulatory body or data protection authority in relation to your complaint.
+- unsubscribe from marketing communications using the unsubscribe link in those communications;
+- ask us to update or correct account information;
+- request details about personal information we hold about you; and
+- make a complaint to us or, where applicable, to a regulator or data protection authority.
 
-Unsubscribe: To unsubscribe from our e-mail database or opt-out of communications (including marketing communications), please contact us using the details below or opt-out using the opt-out facilities provided in the communication.
+If you are a Bento customer and the request relates to personal information that you control inside the Services, we may direct you to handle the request directly through your account or under your agreement with us.
 
-7. Cookies
+If we receive personal information about you from a third party, we will handle it in accordance with this policy. If you provide personal information about another person to us, you represent and warrant that you have the right to do so.
 
-We use “cookies” to collect information about you and your activity across our site. A cookie is a small piece of data that our website stores on your computer, and accesses each time you visit, so we can understand how you use our site. This helps us serve you content based on preferences you have specified. Please refer to our Cookie Policy for more information.
+The Services are not directed to children. We do not knowingly collect personal information from children under 16.
 
-8. Business transfers
+We will comply with applicable law in respect of any notifiable data breach.
 
-If we or our assets are acquired, or in the unlikely event that we go out of business or enter bankruptcy, we would include data among the assets transferred to any parties who acquire us. You acknowledge that such transfers may occur, and that any parties who acquire us may continue to use your personal information according to this policy.
+## 8. Cookies and similar technologies
 
-9. Limits of our policy
+We use cookies and similar technologies to help operate, secure, and improve our websites and Services. For more information, please refer to our Cookie Policy.
 
-Our website may link to external sites that are not operated by us. Please be aware that we have no control over the content and policies of those sites, and cannot accept responsibility or liability for their respective privacy practices.
+## 9. Business transfers
 
-10. Changes to this policy
+If we or our assets are acquired, financed, reorganised, or transferred, personal information may be disclosed to the relevant parties as part of that process and transferred as part of the transaction.
 
-At our discretion, we may change our privacy policy to reflect current acceptable practices. We will take reasonable steps to let users know about changes via our website. Your continued use of this site after any changes to this policy will be regarded as acceptance of our practices around privacy and personal information.
+## 10. Third-party sites and services
 
-If we make a significant change to this privacy policy, for example changing a lawful basis on which we process your personal information, we will ask you to re-consent to the amended privacy policy.
+Our websites or Services may contain links to third-party sites or integrate with third-party services. We are not responsible for the privacy practices of those third parties.
 
-Bento Data Controller
-Bento
-bentonow.com/contact
+## 11. Changes to this policy
 
-This policy is effective as of 1 October 2020.
+We may update this Privacy Policy from time to time. We may provide notice of updates by posting the revised version on our website, through the Services, or by other means we consider appropriate. If this Privacy Policy is incorporated into another agreement with you that requires a longer notice period, that longer notice period will control to the extent required.
+
+Your continued use of the Services after the updated policy becomes effective means you accept the revised policy, to the extent permitted by law.
+
+## 12. Contact us
+
+If you have questions, requests, or complaints about this Privacy Policy or our handling of personal information, please contact us through `bentonow.com/contact` or by emailing `support@bentonow.com`.
+
+Last updated: 2026-03-19

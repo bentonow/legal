@@ -1,5 +1,8 @@
-
-*Last Updated: 15 August 2023*
+---
+title: Terms
+updated_at: 2026-03-19
+description: Core terms governing access to and use of Bento's services.
+---
 
 Welcome to Bento! We provide a cloud-based platform (Platform) where you can send targeted email and SMS to your customers at scale, create automations based on user behaviour and purchases or chat live with customers.
 
@@ -27,7 +30,7 @@ Please read these Terms carefully before you accept. We draw your attention to t
 
 	-	we will not be liable for Consequential Loss or delays or failures in performance caused or contributed to by an event or circumstance beyond our reasonable control;
 
-- we may amend these Terms at any time, by providing written notice to you, and by clicking “I accept”, or by continuing to use our Platform from the date that is 30 days after notification, you agree to the amended Terms. If you do not agree to the amendment, you may close your Account with effect from the date of the change in these Terms by providing written notice to us;
+- we may amend these Terms at any time by providing notice to you, and by clicking “I accept”, or by continuing to use our Platform from the date that is 30 days after notification, you agree to the amended Terms. If you do not agree to the amendment, you may close your Account with effect from the date of the change in these Terms by providing written notice to us;
 
 - where you engage third parties to operate alongside our Services (for example, any third-party software systems you wish to integrate with our Platform), those third parties are independent of us and you are responsible for (meaning we will not be liable for) the goods or services they provide, unless we expressly agree otherwise under clause 2.6; and
 
@@ -43,6 +46,8 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 1.2            You must be at least 18 years old to use our Platform.
 
 1.3            Variations: We may amend these Terms at any time, by providing written notice to you. By clicking “I accept”, or by continuing to use our Platform from the date that is 30 days after notification, you agree to the amended Terms. If you do not agree to the amendment, you may close your Account with effect from the date of the change in these Terms by providing written notice to us. If you close your Account, you will no longer be able to access our Services (including our Platform) on and from the date of cancellation.
+
+1.4            Subscription Agreement and policies: We may offer paid plans, billing terms, or commercial terms under a separate subscription agreement, order form, checkout flow, or plan page (each a Subscription Agreement). If there is a conflict between these Terms and a Subscription Agreement, the Subscription Agreement will control only for pricing, billing cycle, renewal, cancellation, refunds, usage limits, and plan-specific commercial terms. Our Acceptable Use Policy and Privacy Policy are incorporated into these Terms by reference.
 
 ### 2 — Our Services
 2.1            We provide the following services to you:
@@ -75,7 +80,7 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 
 3.3            We may suspend your access to our Services where we reasonably believe there has been any breach of our Acceptable Use Policy or unauthorised access to or use of our Services (such as the unauthorised sharing of login details for our Platform). If we suspend your access to our Services, we will let you know within a reasonable time of doing so, and we will work with you to resolve the matter, or if it cannot be resolved, then we may terminate your Account and your access to our Services will end.
 
-3.4            When you create an Account, you will be prompted to enter the number of unique users with email addresses you intend to communicate with (each an Identified Contact). You will be charged per Identified Contact as set out in clause 4.
+3.4            When you create an Account, you may be prompted to nominate the number of unique users or contacts with email addresses that you intend to store in, communicate with through, or otherwise process through our Platform (each an Identified Contact). We may determine the number of Identified Contacts based on your account data, your plan, the counting methodology we publish, or as otherwise set out in a Subscription Agreement, and you will be charged accordingly.
 
 3.5            Regardless of your number of Identified Contacts, each Account is entitled to the following:
 (a)             access to the Platform features we make available to your subscription plan;
@@ -85,15 +90,15 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 (e)             the ability to connect domains, sites and similar properties to your Account, subject to your subscription plan, our verification requirements, technical limits and our policies.
 
 ### 4 — Payments
-4.1            You must pay a monthly fee for the number of Identified Contacts you communicate with through our Platform (Monthly Fee). The Monthly Fee will be set out on our Platform or as agreed between the parties and direct debited from the credit card you provide upon registration.
+4.1            You must pay the fees for your use of our Services, including any fees based on Identified Contacts, plan tier, billing period, overages, usage, additional services, or other amounts payable under these Terms or any Subscription Agreement (Fees). The applicable Fees will be set out on our Platform, in a Subscription Agreement, or as otherwise agreed between the parties. Unless otherwise stated, Fees are billed in advance and charged to the payment method you provide.
 
-4.2            The Monthly Fee may be subject to reasonable adjustments over time. If we change the Monthly Fee, we will provide you with 30 days’ notice of the change. If you do not wish to pay the amended fee, you may cancel immediately at any time.
+4.2            Fees may be adjusted from time to time. If we change recurring Fees for your plan, we will generally provide you with at least 30 days’ notice before the updated Fees take effect. If you do not wish to pay the updated Fees, you may cancel in accordance with the applicable Subscription Agreement or your account settings before the updated Fees take effect.
 
 4.3            You must not pay, or attempt to pay, any fees due under these Terms or as a result of your use of our Services by fraudulent or unlawful means. If you make payment by debit or credit card, you must be the authorised card holder. If payment is made by direct debit, by providing your bank account details and accepting these Terms, you authorise our nominated third-party payment processor to debit your bank account, and you confirm that you are either the holder or an authorised signatory of that bank account.
 
-4.4            Trial Periods: When you first sign up for an Account, if agreed in writing between us, we may offer you the option to try our Services out for free, for the period of time set out in our offer. At the end of this free trial, you will begin to be charged the Monthly Fee.
+4.4            Trial Periods: When you first sign up for an Account, if agreed in writing between us or offered through our Platform, we may offer you the option to try our Services for free for the period set out in our offer. At the end of the free trial, your paid Subscription will begin and you authorise us to charge the applicable Fees unless you cancel before the trial ends.
 
-4.5            Late Payments: If any fees due under these Terms or as a result of your use of our Services are not paid on time, we may:
+4.5            Late Payments: If any Fees due under these Terms or as a result of your use of our Services are not paid on time, we may:
 (a)             suspend your access to our Services (including access to our Platform); and
 (b)            charge interest on any overdue payments at a rate equal to the Reserve Bank of Australia’s cash rate, from time-to-time, plus 2% per annum, calculated daily and compounding monthly.
 
@@ -131,7 +136,7 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 
 6.4            Delivery of emails, SMS and other communications sent through our Services depends on a range of factors outside our control, including third-party service providers, recipient systems, spam filters, network conditions and platform rules. To the maximum extent permitted by law, we do not guarantee the successful sending, routing, delivery, receipt, timing, inbox placement or continued availability of any email, SMS or other communication sent through our Services.
 
-6.5            To the maximum extent permitted by law, we may, in our sole discretion and without liability to you, delay, reject, block, suspend, remove or refuse to send, route or process any email, SMS or other communication through our Services or network where we consider it necessary or desirable for legal, regulatory, security, reputational, deliverability, spam, fraud, abuse, platform integrity, third-party requirements or compliance reasons, or where we otherwise reasonably consider that doing so may expose us, our Services, our network, our suppliers or any third party to risk.
+6.5            To the maximum extent permitted by law, we may, in our sole discretion and without liability to you, delay, reject, block, suspend, remove, throttle, or refuse to send, route, or process any email, SMS, or other communication through our Services or network where we consider it necessary or desirable for legal, regulatory, security, reputational, deliverability, spam, fraud, abuse, platform integrity, third-party requirements, or compliance reasons, or where we otherwise reasonably consider that doing so may expose us, our Services, our network, our suppliers, or any third party to risk. We are not required to monitor your content, recipients, or traffic, and no action or inaction by us constitutes approval of your data, sending practices, or communications.
 
 ### 7 — Intellectual Property and Data
 7.1            We own all intellectual property rights in our Services (including our Platform). This includes how our Platform looks and functions, as well as our copyrighted works, trademarks, inventions, designs and other intellectual property. You agree not to copy or otherwise misuse our intellectual property without our written permission (for example, to reverse engineer or discover the source code of our intellectual property), and you must not alter or remove any confidentiality, copyright or other ownership notice placed on our Platform.
@@ -139,7 +144,7 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 7.2            We may use any feedback or suggestions that you give us in any manner which we see fit (for example, to develop new features), and no benefit will be owed to you as a result of any use by us of your feedback or suggestions.
 
 #### Your Data
-7.3            We do not own any of Your Data, but when you enter or upload any of Your Data into our Platform, you grant us the right to access, analyse, backup, copy, store, transmit, and otherwise use Your Data while you have an Account with us (and for a reasonable period of time afterwards). We may use Your Data (or disclose it to third party service providers) to:
+7.3            We do not own any of Your Data, but when you enter or upload any of Your Data into our Platform, you grant us the right to access, analyse, backup, copy, store, transmit, and otherwise use Your Data while you have an Account with us and for a reasonable period afterwards to the extent required to provide the Services, maintain backups, comply with law, resolve disputes, enforce our rights, or complete ordinary deletion and retention processes. We may use Your Data (or disclose it to third party service providers) to:
 (a)             supply our Services to you (for example, to enable you to access and use our Services), and otherwise perform our obligations under these Terms;
 (b)            diagnose problems with our Services;
 (c)             improve, develop and protect our Services;
@@ -153,7 +158,7 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 (a)             the integrity of Your Data on your systems, networks or any device controlled by you; and
 (b)            backing up Your Data.
 
-7.6            When you use our Services, we may create anonymised statistical data from Your Data and usage of our Services (for example, through aggregation). Once anonymised, we own that data and may use it for our own purposes, such as to provide and improve our Services, to develop new services or product offerings, to identify business trends, and for other uses we communicate to you. This may include making such anonymised data publicly available, provided it is not compiled using a sample size small enough to make underlying portions of Your Data identifiable.
+7.6            When you use our Services, we may create anonymised statistical data, aggregated insights, diagnostic information, and usage analytics from Your Data and your use of our Services. Once anonymised or aggregated so that it does not reasonably identify you or any individual, we own that data and may use it for our own purposes, such as to provide and improve our Services, to develop new services or product offerings, to identify business trends, to support deliverability and abuse prevention, and for other internal business purposes. This may include making such anonymised or aggregated data publicly available, provided it is not compiled using a sample size small enough to make underlying portions of Your Data identifiable.
 
 7.7            If you do not provide Your Data to us, it may impact your ability to receive our Services.
 
@@ -192,7 +197,7 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 
 (d)            our aggregate liability to you for any Liability arising from or in connection with these Terms will be limited to AU$1,000. 
 
-10.3         You agree to indemnify, defend, and hold us harmless from any and all claims, liabilities, fines, costs, expenses, including internal investigation costs, arising from actual or perceived breaches of the Spam Act, Privacy Act or related regulations, and you shall be responsible for any incurred losses, damages, legal fees, and regulatory assessments.
+10.3         You agree to indemnify, defend, and hold us harmless from any and all claims, liabilities, fines, costs, expenses, including internal investigation costs, arising from actual or alleged breaches of the Spam Act, Privacy Act, telecommunications laws, carrier or platform rules, our Acceptable Use Policy, or related regulations caused by or connected with your use of the Services, Your Data, your recipients, your messages, your integrations, or your business practices, and you shall be responsible for any incurred losses, damages, legal fees, and regulatory assessments.
 
 ### 11 — Termination
 11.1         We may terminate these Terms (meaning you will lose access to our Services, including access to your Account) if:
@@ -205,9 +210,9 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 (a)             we breach these Terms and do not remedy that breach within 14 days of you notifying us of that breach; or
 (b)            we breach these Terms and that breach cannot be remedied.
 
-11.3         You may also terminate these Terms at any time by notifying us through your Account or to our email for notices (as set out in clause 12.8), and termination will take effect immediately.
+11.3         You may also terminate these Terms at any time by notifying us through your Account or to our email for notices (as set out in clause 12.8), and termination will take effect immediately unless a later date is stated by you or required under an applicable Subscription Agreement.
 
-11.4         Upon termination of these Terms, we will retain Your Data (including copies) as required by law or regulatory requirements.
+11.4         Upon termination of these Terms, your access to the Services may end immediately and you are responsible for exporting any Your Data that you wish to retain before termination if export functionality is made available to you. We may retain, delete, or continue to store Your Data (including copies and backups) as required or permitted by law, regulatory requirements, ordinary backup cycles, our Privacy Policy, or our legitimate business purposes relating to security, fraud prevention, dispute resolution, and enforcement.
 
 11.5         Termination of these Terms will not affect any other rights or liabilities that we or you may have. 
 
@@ -233,7 +238,7 @@ If the Dispute is not resolved at that initial meeting:
 
 12.9         Publicity: You agree that, subject to your prior written consent, we may advertise or publicise the fact you are a customer of ours, for example on our website or in our promotional material, and you grant us a right to display and use your logo and branding solely for that purpose.
 
-12.10      Survival: Clauses 7 to 11 will survive the termination or expiry of these Terms.
+12.10      Survival: Clauses 4, 7 to 12, and any other provision which by its nature is intended to survive termination or expiry, will survive the termination or expiry of these Terms.
 
 ### 13 — Definitions
 13.1         In these Terms:
@@ -251,6 +256,8 @@ Liability means any expense, cost, liability, loss, damage, claim, notice, entit
 Personal Information means any information or opinion about an identified individual, or an individual who is reasonably identifiable, whether the information or opinion is true or not, and whether the information or opinion is recorded in a tangible form or not.
 
 Platform means our cloud-based platform, available at https://bentonow.com/.
+
+Subscription Agreement means any separate subscription agreement, order form, checkout flow, plan terms, or other commercial terms accepted by you or made available by us for pricing, billing, usage limits, or subscription-specific features of the Services.
 
 Privacy Act means the Privacy Act 1988 (Cth) or equivalent privacy laws in the jurisdiction you conduct business in.
 
