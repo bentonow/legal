@@ -1,6 +1,6 @@
 ---
 title: Terms
-updated_at: 2026-03-19
+updated_at: 2026-11-01
 description: Core terms governing access to and use of Bento's services.
 ---
 
@@ -47,7 +47,7 @@ __These Terms do not intend to limit your rights and remedies at law, including 
 
 1.3            Variations: We may amend these Terms at any time, by providing written notice to you. By clicking “I accept”, or by continuing to use our Platform from the date that is 30 days after notification, you agree to the amended Terms. If you do not agree to the amendment, you may close your Account with effect from the date of the change in these Terms by providing written notice to us. If you close your Account, you will no longer be able to access our Services (including our Platform) on and from the date of cancellation.
 
-1.4            Subscription Agreement and policies: We may offer paid plans, billing terms, or commercial terms under a separate subscription agreement, order form, checkout flow, or plan page (each a Subscription Agreement). If there is a conflict between these Terms and a Subscription Agreement, the Subscription Agreement will control only for pricing, billing cycle, renewal, cancellation, refunds, usage limits, and plan-specific commercial terms. Our Acceptable Use Policy, Privacy Policy, Cookie Policy, Copyright Policy, SMS Messaging Compliance Policy, and, where applicable, our API Terms and any data processing terms made available by us are incorporated into these Terms by reference. We may also make available a Subprocessor List, Security Overview, Government Requests Policy, Abuse Reporting page, and similar informational materials. Unless we expressly state otherwise in writing, those informational materials do not create independent service levels, warranties, or audit rights.
+1.4            Subscription Agreement and policies: We may offer paid plans, billing terms, or commercial terms under a separate subscription agreement, order form, checkout flow, or plan page (each a Subscription Agreement). If there is a conflict between these Terms and a Subscription Agreement, the Subscription Agreement will control only for pricing, billing cycle, renewal, cancellation, refunds, usage limits, and plan-specific commercial terms. Our Acceptable Use Policy, Privacy Policy, Cookie Policy, Copyright Policy, SMS Messaging Compliance Policy, and, where applicable, our API Terms are incorporated into these Terms by reference. Our Data Processing Addendum is a separate agreement and is not incorporated into these Terms. It applies only once you sign it through your account settings, or once we otherwise agree to it with you in writing. We may also make available a Subprocessor List, Security Overview, Government Requests Policy, Abuse Reporting page, and similar informational materials. Unless we expressly state otherwise in writing, those informational materials do not create independent service levels, warranties, or audit rights.
 
 ### 2 — Our Services
 2.1            We provide the following services to you:

@@ -1,45 +1,80 @@
 ---
 title: Subprocessors
-updated_at: 2026-03-19
-description: Current list of subprocessors and service providers Bento may use to help deliver the Services.
+updated_at: 2026-11-01
+description: Current list of subprocessors and service providers that Bento, PostShiba, and Tatami use to help deliver the Services.
 ---
 
-This page lists subprocessors and similar service providers that Bento may use to help provide, secure, support, and improve the Services.
+This page lists subprocessors and similar service providers that Backpack Internet Pty. Ltd. (trading as Bento Software) uses to help provide, secure, support, and improve its products: Bento, PostShiba, and Tatami.
 
-If Bento processes customer personal information on your behalf, this page is intended to supplement the data processing terms you may request through `gdpr.bentonow.com`.
+If Bento processes customer personal information on your behalf, this page supplements our Data Processing Addendum, which you can review at [bentonow.com/gdpr/dpa](https://bentonow.com/gdpr/dpa) and sign in your account settings. The Data Processing Addendum currently covers Bento only.
 
 We may update this page from time to time as our vendors and infrastructure change. Where required by contract or applicable law, we will provide additional notice before making material changes.
 
 ## How to read this page
 
 - `Service provider` means the vendor or subprocessor.
+- `Products` means which of our products use the vendor.
 - `Purpose` means the general service the vendor helps us perform.
 - `Customer data involved` means the main categories of customer or end-user data the vendor may process for that purpose.
 - `Region` means the primary processing or hosting region we currently expect for that service. Actual processing locations may vary.
 
-## Current subprocessors
+## Infrastructure and hosting
 
-| Service provider | Purpose | Customer data involved | Region | Notes |
+| Service provider | Products | Purpose | Customer data involved | Region |
 | --- | --- | --- | --- | --- |
-| Amazon Web Services (AWS) | Core cloud infrastructure and storage | Account data, contact data, event data, message metadata, application logs | United States | Primary infrastructure provider |
-| Heroku | Application hosting and managed platform services | Account data, contact data, event data, application records, logs | United States | Hosts parts of the application stack |
-| Vercel | Website and application hosting | Account data, contact data, request metadata, application logs | United States | Frontend and web delivery infrastructure |
-| Cloudflare | CDN, edge security, and network protection | IP address, request metadata, cookies, security logs | United States | Performance and DDoS protection |
-| Elastic | Search and analytics infrastructure | Search queries, account identifiers, event data, technical logs | United States | Search and diagnostics services |
-| PlanetScale | Managed database platform | Account data, contact data, event data, application records | United States | Database infrastructure |
-| Redis | In-memory caching and queueing infrastructure | Account identifiers, session data, event data, job payloads | Varies | Used for caching, queueing, and temporary data storage |
-| OpenAI | AI-powered product features and text processing | Prompts, generated content, account identifiers, usage metadata | United States | Used to provide AI functionality within the Services |
-| Stripe | Billing and payment processing | Billing contact details, transaction details, subscription data | United States | Card data is generally handled directly by Stripe |
-| SendGrid | Email delivery and routing | Recipient email address, message content, message metadata, delivery events | United States | Outbound email sending |
-| Hetzner | Self-hosted mail transfer infrastructure | Recipient email address, message headers, routing metadata, delivery logs | European Union | Used for self-hosted MTA and related mail infrastructure |
-| New Relic | Application performance monitoring and observability | Technical logs, device data, account identifiers, diagnostic metadata | United States | Performance monitoring and troubleshooting |
-| Honeybadger | Error tracking and exception monitoring | Technical logs, account identifiers, request metadata, diagnostic metadata | United States | Reliability and debugging |
-| Sentry | Error logging and performance monitoring | Technical logs, device data, account identifiers, diagnostic metadata | United States | Reliability and debugging |
-| Better Stack | Logging, uptime monitoring, and incident alerting | Technical logs, IP address, request metadata, service health data | United States | Operational monitoring and incident response |
-| Close | Sales CRM and communications management | Business contact details, communication history, account notes | United States | Customer and prospect relationship management |
-| Google Workspace (Gmail) | Business email hosting and communications | Business contact details, email content, message metadata | United States | Internal and customer-facing email operations |
-| Contentful | Content management system | Account contact details and content submitted through managed pages | United States | Optional marketing and content workflows |
-| Spamhaus | Abuse prevention and security filtering | IP address, request metadata, security events | United States | Threat intelligence and anti-abuse services |
+| Heroku (Salesforce) | Bento, Tatami | Application hosting | Account data, contact data, event data, application records, logs | United States |
+| Northflank | PostShiba | Application and mail server hosting, running on Google Cloud | Account data, message content, recipient email addresses, message metadata, delivery events, logs | United States |
+| PlanetScale | Bento, PostShiba, Tatami | Managed database | Account data, contact data, event data, message metadata, application records | United States |
+| Amazon Web Services (AWS) | Bento, PostShiba | Cloud infrastructure, storage, DNS, and self-hosted mail servers | Account data, contact data, event data, recipient email addresses, message content and headers, delivery logs, application logs | United States |
+| Elastic (Elastic Cloud) | Bento, Tatami | Search and analytics | Contact data, event data, delivery events, account identifiers | United States |
+| DragonflyDB | Bento, Tatami | Redis-compatible data store for background jobs, queues, caching, rate limiting, and firewall rules | Any data the product processes while it passes through background jobs, including contact data, event data, message content, and session data | Varies |
+| Redis Ltd. (Redis Cloud) | Bento | Caching | Account identifiers, session data, cached application data | United States |
+| MemCachier | Bento, Tatami | Caching | Account identifiers, session data, cached application data | United States |
+| Cloudflare | Bento, Tatami | CDN, DNS, edge security, and the Tatami MCP server | IP address, request metadata, cookies, security logs | Global |
+| Vercel | Bento | Website hosting | Request metadata, contact details submitted through our website | United States |
+| Cloudinary | Bento | Image hosting for marketing and email assets | Images and files you upload | United States |
+
+## Email delivery
+
+| Service provider | Products | Purpose | Customer data involved | Region |
+| --- | --- | --- | --- | --- |
+| SendGrid (Twilio) | Bento | Email delivery | Recipient email addresses, message content, message metadata, delivery events | United States |
+| Mailgun (Sinch) | Bento | Email delivery | Recipient email addresses, message content, message metadata, delivery events | United States |
+| Hetzner | Bento, PostShiba | Self-hosted mail servers and sending proxies | Recipient email addresses, message headers, routing metadata, delivery logs | European Union |
+| UpCloud | PostShiba | Sending proxies | Recipient email addresses, message headers, routing metadata, delivery logs | European Union |
+
+## Product features
+
+| Service provider | Products | Purpose | Customer data involved | Region |
+| --- | --- | --- | --- | --- |
+| OpenAI | Bento, PostShiba, Tatami | AI features | Prompts, generated content, account identifiers, usage metadata | United States |
+| Stripe | Bento, PostShiba, Tatami | Billing and payments | Billing contact details, transaction details, subscription data | United States |
+
+## Security and abuse prevention
+
+| Service provider | Products | Purpose | Customer data involved | Region |
+| --- | --- | --- | --- | --- |
+| Spamhaus | Bento, PostShiba, Tatami | Link, domain, and IP reputation checks | Links and domains found in messages, sending IP addresses | Varies |
+| SURBL | PostShiba, Tatami | Link and domain reputation checks | Links and domains found in messages | Varies |
+| AbuseIPDB | PostShiba | IP reputation checks at signup | IP addresses | United States |
+| Exa | Tatami | Signup screening: researches the domain of a new signup's email | Email domain | United States |
+| TypeSafe | Tatami | Signup screening: scores the domain using that research | Email domain and public web research about it | Varies |
+
+## Monitoring and operations
+
+| Service provider | Products | Purpose | Customer data involved | Region |
+| --- | --- | --- | --- | --- |
+| Better Stack | Bento, PostShiba, Tatami | Logging, error tracking, uptime monitoring, and incident alerting | Technical logs, IP address, request metadata, account identifiers | United States, European Union |
+| New Relic | Bento | Application performance monitoring | Technical logs, account identifiers, diagnostic metadata | United States |
+| Discord | All | Customer support and internal team communication | Support conversations, contact details, and account details discussed by our team | United States |
+
+## Business operations
+
+| Service provider | Products | Purpose | Customer data involved | Region |
+| --- | --- | --- | --- | --- |
+| Close | All | Sales CRM | Business contact details, communication history, account notes | United States |
+| Google Workspace | All | Business email and documents | Business contact details, email content, message metadata | United States |
+| Sanity | All | Website content management | Content we publish; no customer account data | United States |
 
 ## Changes to this page
 
@@ -47,4 +82,4 @@ We may add, replace, or remove subprocessors and service providers from time to 
 
 ## Contact us
 
-If you have questions about this page or Bento's subprocessors, please contact `support@bentonow.com`.
+If you have questions about this page or our subprocessors, please contact `support@bentonow.com`.
