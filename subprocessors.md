@@ -1,12 +1,12 @@
 ---
 title: Subprocessors
-updated_at: 2026-03-19
+updated_at: 2026-11-01
 description: Current list of subprocessors and service providers Bento may use to help deliver the Services.
 ---
 
 This page lists subprocessors and similar service providers that Bento may use to help provide, secure, support, and improve the Services.
 
-If Bento processes customer personal information on your behalf, this page is intended to supplement the data processing terms you may request through `gdpr.bentonow.com`.
+If Bento processes customer personal information on your behalf, this page supplements our Data Processing Addendum, which you can review at `gdpr.bentonow.com` and sign in your account settings.
 
 We may update this page from time to time as our vendors and infrastructure change. Where required by contract or applicable law, we will provide additional notice before making material changes.
 
