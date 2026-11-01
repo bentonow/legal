@@ -40,8 +40,8 @@ We may update this page from time to time as our vendors and infrastructure chan
 | --- | --- | --- | --- | --- |
 | SendGrid (Twilio) | Bento | Email delivery | Recipient email addresses, message content, message metadata, delivery events | United States |
 | Mailgun (Sinch) | Bento | Email delivery | Recipient email addresses, message content, message metadata, delivery events | United States |
-| Hetzner | Bento, PostShiba | Self-hosted mail servers and sending proxies | Recipient email addresses, message headers, routing metadata, delivery logs | European Union |
-| UpCloud | PostShiba | Sending proxies | Recipient email addresses, message headers, routing metadata, delivery logs | European Union |
+| Hetzner | Bento, PostShiba | Self-hosted mail servers (MTAs) and sending proxies | Recipient email addresses, message content and headers, routing metadata, delivery logs | United States |
+| UpCloud | Bento, PostShiba | Self-hosted mail servers (MTAs) and sending proxies | Recipient email addresses, message content and headers, routing metadata, delivery logs | United States |
 
 ## Product features
 
