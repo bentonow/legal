@@ -17,7 +17,7 @@ This policy applies to personal information we handle about:
 
 If you use Bento to process personal information about your own contacts, subscribers, customers, or users, you are responsible for making sure you have the necessary rights, notices, and consents for that processing. In those situations, you generally control the data you upload to Bento, and we handle it on your behalf in order to provide, secure, support, and improve the Services, prevent abuse, and comply with law.
 
-If Bento processes personal information for you as a processor or service provider, our Data Processing Addendum applies once you sign it in your account settings, together with any other agreement you have with us. You can review it at `gdpr.bentonow.com`. This Privacy Policy describes our general privacy practices. The more specific controller, processor, security, and transfer terms in your agreement with us or the applicable data processing addendum will control to the extent of any inconsistency.
+If Bento processes personal information for you as a processor or service provider, our Data Processing Addendum applies once you sign it in your account settings, together with any other agreement you have with us. You can review it at [bentonow.com/gdpr/dpa](https://bentonow.com/gdpr/dpa). This Privacy Policy describes our general privacy practices. The more specific controller, processor, security, and transfer terms in your agreement with us or the applicable data processing addendum will control to the extent of any inconsistency.
 
 ## Our role
 

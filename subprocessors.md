@@ -6,7 +6,7 @@ description: Current list of subprocessors and service providers Bento may use t
 
 This page lists subprocessors and similar service providers that Bento may use to help provide, secure, support, and improve the Services.
 
-If Bento processes customer personal information on your behalf, this page supplements our Data Processing Addendum, which you can review at `gdpr.bentonow.com` and sign in your account settings.
+If Bento processes customer personal information on your behalf, this page supplements our Data Processing Addendum, which you can review at [bentonow.com/gdpr/dpa](https://bentonow.com/gdpr/dpa) and sign in your account settings.
 
 We may update this page from time to time as our vendors and infrastructure change. Where required by contract or applicable law, we will provide additional notice before making material changes.
 
