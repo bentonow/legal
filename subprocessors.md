@@ -27,7 +27,7 @@ We may update this page from time to time as our vendors and infrastructure chan
 | PlanetScale | Bento, PostShiba, Tatami | Managed database | Account data, contact data, event data, message metadata, application records | United States |
 | Amazon Web Services (AWS) | Bento, PostShiba | Cloud infrastructure, storage, and DNS | Account data, contact data, event data, message metadata, application logs | United States |
 | Elastic (Elastic Cloud) | Bento, Tatami | Search and analytics | Contact data, event data, delivery events, account identifiers | United States |
-| DragonflyDB | Bento, Tatami | Queues and caching | Account identifiers, session data, event data, job payloads | Varies |
+| DragonflyDB | Bento, Tatami | Redis-compatible data store for background jobs, queues, caching, rate limiting, and firewall rules | Any data the product processes while it passes through background jobs, including contact data, event data, message content, and session data | Varies |
 | Redis Ltd. (Redis Cloud) | Bento | Caching | Account identifiers, session data, cached application data | United States |
 | MemCachier | Bento, Tatami | Caching | Account identifiers, session data, cached application data | United States |
 | Cloudflare | Bento, Tatami | CDN, DNS, edge security, and the Tatami MCP server | IP address, request metadata, cookies, security logs | Global |
@@ -54,9 +54,11 @@ We may update this page from time to time as our vendors and infrastructure chan
 
 | Service provider | Products | Purpose | Customer data involved | Region |
 | --- | --- | --- | --- | --- |
-| Spamhaus | Bento, PostShiba, Tatami | Blocklist and reputation lookups | IP addresses, domains, security events | Varies |
-| SURBL | PostShiba, Tatami | Domain reputation lookups | Domains and links found in messages | Varies |
+| Spamhaus | Bento, PostShiba, Tatami | Link, domain, and IP reputation checks | Links and domains found in messages, sending IP addresses | Varies |
+| SURBL | PostShiba, Tatami | Link and domain reputation checks | Links and domains found in messages | Varies |
 | AbuseIPDB | PostShiba | IP reputation checks at signup | IP addresses | United States |
+| Exa | Tatami | Signup screening: researches the domain of a new signup's email | Email domain | United States |
+| TypeSafe | Tatami | Signup screening: scores the domain using that research | Email domain and public web research about it | Varies |
 
 ## Monitoring and operations
 
@@ -64,7 +66,7 @@ We may update this page from time to time as our vendors and infrastructure chan
 | --- | --- | --- | --- | --- |
 | Better Stack | Bento, PostShiba, Tatami | Logging, error tracking, uptime monitoring, and incident alerting | Technical logs, IP address, request metadata, account identifiers | United States, European Union |
 | New Relic | Bento | Application performance monitoring | Technical logs, account identifiers, diagnostic metadata | United States |
-| Discord | PostShiba, Tatami | Internal team notifications | Account contact details in signup and alert notifications | United States |
+| Discord | All | Customer support and internal team communication | Support conversations, contact details, and account details discussed by our team | United States |
 
 ## Business operations
 
