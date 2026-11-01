@@ -25,7 +25,7 @@ We may update this page from time to time as our vendors and infrastructure chan
 | Heroku (Salesforce) | Bento, Tatami | Application hosting | Account data, contact data, event data, application records, logs | United States |
 | Northflank | PostShiba | Application and mail server hosting, running on Google Cloud | Account data, message content, recipient email addresses, message metadata, delivery events, logs | United States |
 | PlanetScale | Bento, PostShiba, Tatami | Managed database | Account data, contact data, event data, message metadata, application records | United States |
-| Amazon Web Services (AWS) | Bento, PostShiba | Cloud infrastructure, storage, and DNS | Account data, contact data, event data, message metadata, application logs | United States |
+| Amazon Web Services (AWS) | Bento, PostShiba | Cloud infrastructure, storage, DNS, and self-hosted mail servers | Account data, contact data, event data, recipient email addresses, message content and headers, delivery logs, application logs | United States |
 | Elastic (Elastic Cloud) | Bento, Tatami | Search and analytics | Contact data, event data, delivery events, account identifiers | United States |
 | DragonflyDB | Bento, Tatami | Redis-compatible data store for background jobs, queues, caching, rate limiting, and firewall rules | Any data the product processes while it passes through background jobs, including contact data, event data, message content, and session data | Varies |
 | Redis Ltd. (Redis Cloud) | Bento | Caching | Account identifiers, session data, cached application data | United States |
